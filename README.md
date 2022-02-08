@@ -35,4 +35,4 @@
 - **Interests:** Traveling; Swimming & Water Polo; Guitars; Technology; Reading; Music
 
 ## LINKS
-- LinkedIn: <https://www.linkedin.com/in/kylebandy/>
+- [LinkedIn](https://www.linkedin.com/in/kylebandy/)
