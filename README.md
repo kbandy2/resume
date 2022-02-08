@@ -1,5 +1,5 @@
 # Kyle Bandy
-**Data Analyst with 7+ years of experience currently based in Washington, DC**
+_Data Analyst with 7+ years of experience, currently based in Washington D.C._
 
 ## WORK EXPERIENCE
 ## United States Postal Service,  						     Jul. 2014 - Present
@@ -7,7 +7,7 @@
 - Developed graph network using networkx and pandas Python packages to determine zip-code eligibility for newly proposed small-business mailing services, enabling revenue opportunities in zip-codes forecasted to increase local package deliveries by 87%.
 - Created Random Forest classifier (using scikit-learn) to make predictions regarding zip-codes with missing data, correctly classifying viability in 79% of cases.
 - Supported COVID test-kit delivery by building automated Power BI reports, leveraging cloud Azure services, and Power Automate paired with Python code to ingest inventory data and produce real-time analytics regarding optimal operational actions. This analytic solution identifies and resolves supply chain concerns using anomaly detection and simulation.
-- Trained k-nearest neighbor model in R to identify existing facilities most likely to have underutilized square footage, exposing a multi-million-dollar revenue opportunity.
+- Trained k-nearest neighbor model in R to identify existing facilities most likely to have underutilized square footage, exposing a multi-million-dollar revenue opportunity.\
 ### Business Analyst Leader (Advanced Analytics),				       Feb. 2020 - Aug 2021
 - Managed and coached team of 6 Business Analysts and 4 Contractors to develop Hadoop / Hive data models, Qlik visualizations, SQL queries, and machine learning models.
 - Used open-cv and trained a Deep Neural Net Computer Vision model to identify real-time utilization of a critical sorting machine component, to alert operations management to divert resources and improve efficiencies.
