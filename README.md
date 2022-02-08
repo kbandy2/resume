@@ -22,11 +22,11 @@
 
 ## EDUCATION
 ### Georgia Institute of Technology, 						         Aug. 2020 – Current
-**MS Analytics**
+**_MS Analytics_**
 - Anticipated graduation date of Sep. 2022
 
 ### West Virginia University 								      Aug. 2009 – May 2014
-**BS Industrial & Systems Engineering**
+**_BS Industrial & Systems Engineering_**
 - 4 year member of men’s varsity Swimming and Diving team, earning athletic academic honors
 - Professional Internship with Disney Parks & Resorts in Revenue Management & Analytics
 
