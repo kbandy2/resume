@@ -21,6 +21,7 @@ _Data Analyst with 7+ years of experience, currently based in Washington D.C._
 ### Georgia Institute of Technology, 						         Aug. 2020 – Current
 **MS Analytics**
 - Anticipated graduation date of Sep. 2022
+
 ### West Virginia University 								      Aug. 2009 – May 2014
 **BS Industrial & Systems Engineering**
 - 4 year member of men’s varsity Swimming and Diving team, earning athletic academic honors
