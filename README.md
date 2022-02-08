@@ -1,5 +1,5 @@
 # Kyle Bandy
->_Data Analyst with 7+ years of experience, currently based in Washington D.C._
+>**_Data Analyst with 7+ years of experience, currently based in Washington D.C._**
 
 ## WORK EXPERIENCE
 ## United States Postal Service,  						     Jul. 2014 - Present
