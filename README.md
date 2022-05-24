@@ -36,3 +36,5 @@
 
 ## LINKS
 - [LinkedIn](https://www.linkedin.com/in/kylebandy/)
+- [Blog / Website](https://medium.com/@kylembandy)
+- [GitHub](https://github.com/kbandy2)
